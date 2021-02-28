@@ -1,1 +1,6 @@
+# Jekyll configuration
 theme: jekyll-theme-cayman
+markdown: kramdown
+title: AWS Security Certification
+description: Research Notes to Prepare for the AWS Security Specialty Certification.
+google_analytics: G-SF32L2WFG6
